@@ -3,9 +3,9 @@
 
 int main(){
   int i,head = 0,tail = 0,HoT;
-
+  
  
-
+  printf("Tossind a coin...\n");
   for(i = 1;i<4;i++){
     HoT = rand();
     if(HoT%2==0){
