@@ -3,6 +3,15 @@
 
 int main(){
   int i,head = 0,tail = 0,HoT;
+  
+   int x,y;
+  scanf("%d",&x);
+  y= rand();
+  if(x>y)
+    printf("You won\n");
+  else
+    printf("You lost\n");
+  
   printf("Tossing a coin...\n");
 
  
