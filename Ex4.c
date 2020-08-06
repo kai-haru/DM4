@@ -22,6 +22,7 @@ int main(){
     }
   }
   printf("Heads:%d,Tails:%d\n",head,tail);
+  
   return 0;
 }
     
