@@ -3,6 +3,10 @@
 
 int main(){
   int i,head = 0,tail = 0,HoT;
+  
+  
+  
+  
 
   
   printf("Tossing a coin...\n");
